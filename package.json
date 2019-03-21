@@ -1,0 +1,20 @@
+{
+  "name": "car-model-version-description",
+  "version": "1.0.0",
+  "description": "This is a mock function which will return the model & version description of a car , depending  upon the company , brand and model number",
+  "main": "dist/app",
+  "types": "dist/app",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "@types/node": "^10.14.1"
+  },
+  "author": "TCS",
+  "license": "UNLICENSED"
+}

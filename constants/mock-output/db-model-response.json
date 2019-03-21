@@ -1,0 +1,39 @@
+{
+  "ford": {
+    "lincoln": {
+      "LN100": [
+        {
+          "X_MOD_DESC": "Stelvio",
+          "X_VERSN_DESC": "sport",
+          "C_VERSN": "Q13"
+        },
+        {
+          "X_MOD_DESC": "Stelvio",
+          "X_VERSN_DESC": "family",
+          "C_VERSN": "Q131"
+        }
+      ],
+      "LN101": [
+        {
+          "X_MOD_DESC": "Pablo",
+          "X_VERSN_DESC": "luxury",
+          "C_VERSN": "Q11"
+        }
+      ]
+    },
+     "Renegade": {
+      "RN100": [
+        {
+          "X_MOD_DESC": "Jeep",
+          "X_VERSN_DESC": "family",
+          "C_VERSN": "RN13"
+        },
+        {
+          "X_MOD_DESC": "Jeep ",
+          "X_VERSN_DESC": "family",
+          "C_VERSN": "RN31"
+        }
+      ]
+    }
+  }
+}

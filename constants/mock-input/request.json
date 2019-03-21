@@ -1,0 +1,24 @@
+{
+    "pathParams": {
+        "company": "ford",
+        "brand": "Renegade",
+        "model": "RN100"
+    },
+    "headers": {
+        "accept-encoding": "gzip, deflate",
+        "authorization": "",
+        "cache-control": "no-cache",
+        "clientrequestid": "124",
+        "content-type": "application/json"
+    },
+    "queryString": {
+        "versioncode": "Q03"
+    },
+    "runTimeInfo": {
+        "cloudReqId": "",
+        "executionRegion": "",
+        "stage": "",
+        "httpMethod": "GET",
+        "resourcePath": "/v1/vehicles/models/{company}/{brand}/{model}"
+    }
+}

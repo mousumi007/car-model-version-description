@@ -1,0 +1,7 @@
+{
+    "versions": {
+        "C_VERSN": "versionCode",
+        "X_VERSN_DESC": "versionDescription"
+      },
+    "X_MOD_DESC": "modelDescription"
+}
