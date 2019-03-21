@@ -1,5 +1,5 @@
 # car-model-version-description
-This is sample project using built on typescript & nodejs. The aim is to connect with the database
+This is sample project built using typescript & nodejs. The aim is to connect with the database
 and display model & version description of a vehicle depending upon the input parameters (company , brand , model).
 
 #Instructions
